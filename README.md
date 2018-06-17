@@ -1,0 +1,2 @@
+# potragaZaBlagom
+Bachelor's thesis
